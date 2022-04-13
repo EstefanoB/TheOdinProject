@@ -1,0 +1,19 @@
+.title, .item {
+    font-family: "DejaVu Sans", "Verdana", sans-serif;
+}
+
+.title {
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    background-color: aliceblue;
+}
+
+.hyperlink {
+    color: purple;
+}
+
+.list .item {
+    font-size: 20px;
+    font-weight: 300;
+}

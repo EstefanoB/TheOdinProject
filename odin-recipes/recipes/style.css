@@ -1,0 +1,25 @@
+.title, .subtitle, .text {
+    font-family: "DejaVu Sans", "Verdana", sans-serif;
+}
+
+.title {
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    background-color: aliceblue;
+}
+
+.subtitle {
+    font-size: 28px;
+    font-weight: 500;
+    background-color: aliceblue;
+}
+
+.hyperlink {
+    color: purple;
+}
+
+.text {
+    font-size: 14px;
+    font-weight: 300;
+}
